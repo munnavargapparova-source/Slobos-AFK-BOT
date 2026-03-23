@@ -8,7 +8,7 @@
   "server": {
     "ip": "Flixbest.aternos.me",
     "port": 17340,
-    "version": "1.21.4"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
